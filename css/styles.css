@@ -247,7 +247,7 @@ img {
   margin-bottom: 72px;
 }
 
-.products-container {
+.products-section {
   padding-bottom: 120px;
 }
 
@@ -283,7 +283,7 @@ img {
 }
 .team-card-item-header {
   display: block;
-  padding-bottom: 8px;
+  margin-bottom: 8px;
 }
 
 .team-card-content {
